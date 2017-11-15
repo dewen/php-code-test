@@ -1,0 +1,15 @@
+{
+  "require":{
+    "phpunit/phpunit":"~4.5"
+  },
+  "autoload": {
+    "psr-4": {
+      "Valid\\": "src/"
+    }
+  },
+  "autoload-dev": {
+    "psr-4": {
+      "Valid\\Test\\": "tests/"
+    }
+  }
+}
