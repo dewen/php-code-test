@@ -4,8 +4,8 @@ Test and secure your code in a quick way using PHPUnit.
 
 ### Installing
 
-# Clone the repo
-# Run composer install
+* Clone the repo
+* Run composer install
 ```
 composer install
 ```
